@@ -5,6 +5,7 @@
 
 # Animation
 - https://www.react-spring.io/docs/hooks/basics
+- https://cssanimation.rocks/spheres/
 
 # Code Formatting, ESLint, Prettier
 - https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code
@@ -21,3 +22,7 @@
 
 # Hooks
 - https://blog.typicode.com/husky-git-hooks-javascript-config/
+
+# NodeJS
+- How to update all the packages https://stackoverflow.com/questions/16073603/how-to-update-each-dependency-in-package-json-to-the-latest-version
+- 
